@@ -7,4 +7,4 @@ List and favorite your products.
 2. run ```yarn``` to install dependencies
 3. run ```yarn build``` to build project
 4. run ```yarn dev``` to run locally
-5. access [localhost] (http://localhost:3000)
+5. access http://localhost:3000
